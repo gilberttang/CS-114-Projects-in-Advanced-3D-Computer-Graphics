@@ -6,4 +6,7 @@ Phong and Blinn-Phong Shading
 (Isotropic) Microfacet Shading
 
 
-Open the 
+Open the proj1_student.html to run the program
+
+
+Reference link: http://www.ics.uci.edu/~shz/courses/cs114/docs/proj1/
