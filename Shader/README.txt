@@ -7,3 +7,6 @@ Phong and Blinn-Phong Shading
 
 
 Open proj1_student.html to run the program
+
+Programming Language & API: Javascript, OpenGL
+My part: Only modified several main() in proj1_student.html
