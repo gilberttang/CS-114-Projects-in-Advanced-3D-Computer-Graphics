@@ -10,6 +10,6 @@ My part: Only modified several shaders in proj1_student.html
 
 Project link: https://gilberttang.github.io/Shader/
 
-Check your browser support WebGL or not: 
+Check your browser that support WebGL or not: 
 http://webglreport.com/?v=1
 http://caniuse.com/#feat=webgl
