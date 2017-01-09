@@ -7,6 +7,3 @@ Phong and Blinn-Phong Shading
 
 
 Open proj1_student.html to run the program
-
-
-Reference link: http://www.ics.uci.edu/~shz/courses/cs114/docs/proj1/
