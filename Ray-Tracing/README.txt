@@ -3,4 +3,4 @@ Part 1: Getting familiar with Monte Carlo integration
 Part 2: Applying the concept of Monte Carlo integration to solving the rendering equation for implementing path tracing, a common solution to the global illumination problem.
 
 Programming Language: C++
-My part: 
+My part: sampling functions, ideal diffuse BRDF, radiance estimator
