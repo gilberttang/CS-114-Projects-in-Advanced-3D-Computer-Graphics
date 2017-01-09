@@ -8,7 +8,7 @@ Phong and Blinn-Phong Shading
 
 Open proj1_student.html to run the program
 
-Check your browser support WebgL or not: 
+Check your browser support WebGL or not: 
 http://webglreport.com/?v=1
 http://caniuse.com/#feat=webgl
 
