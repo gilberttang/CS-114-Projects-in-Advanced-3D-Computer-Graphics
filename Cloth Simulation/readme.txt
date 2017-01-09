@@ -8,6 +8,7 @@ My part: proj3_sim.js, proj3_webgl.js, proj3.html
 "Rain Mode" add rain drops on the cloth
 
 Project link: https://gilberttang.github.io/CS114/Cloth_Simulation/
+Reference link: https://gilberttang.github.io/CS114/proj3/
 
 Check your browser that support WebGL or not: 
 http://webglreport.com/?v=1
