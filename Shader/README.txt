@@ -8,7 +8,7 @@ Phong and Blinn-Phong Shading
 Programming Language & API: Javascript, OpenGL
 My part: Only modified several shaders in proj1_student.html
 
-Project link: https://gilberttang.github.io/Shader/
+Project link: https://gilberttang.github.io/CS114/Shader/
 
 Check your browser that support WebGL or not: 
 http://webglreport.com/?v=1
