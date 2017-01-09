@@ -6,9 +6,9 @@ Phong and Blinn-Phong Shading
 (Isotropic) Microfacet Shading
 
 Programming Language & API: Javascript, OpenGL
-My part: Only modified several main() in proj1_student.html
+My part: Only modified several shaders in proj1_student.html
 
-Open proj1_student.html to run the program
+Project link: https://gilberttang.github.io/Shader/
 
 Check your browser support WebGL or not: 
 http://webglreport.com/?v=1
