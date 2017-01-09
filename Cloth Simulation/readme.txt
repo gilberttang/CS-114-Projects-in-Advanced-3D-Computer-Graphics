@@ -1,6 +1,3 @@
-proj3_webgl.js
-
-
 
 
 
