@@ -8,5 +8,9 @@ Phong and Blinn-Phong Shading
 
 Open proj1_student.html to run the program
 
+Check your browser support WebgL or not: 
+http://webglreport.com/?v=1
+http://caniuse.com/#feat=webgl
+
 Programming Language & API: Javascript, OpenGL
 My part: Only modified several main() in proj1_student.html
