@@ -4,3 +4,8 @@ Part 2: Applying the concept of Monte Carlo integration to solving the rendering
 
 Programming Language: C++
 My part: sampling functions, ideal diffuse BRDF, radiance estimator
+
+The result of the project is put in "writeup.pdf".
+
+Reference link: https://gilberttang.github.io/CS114/proj2/
+
