@@ -1,6 +1,6 @@
 This project is to make a cloth simulator with collison, wind, raining and flaming effect.
 
-Programming Language & API: Javascript, OpenGL
+Programming Language & API: Javascript, WebGL
 My part: proj3_sim.js, proj3_webgl.js, proj3.html
 
 "Ball X", "Ball Y" and "Ball Z" slider adjust/add velocity to the ball
